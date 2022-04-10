@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Avemark
+- 👀 I’m interested in Everything
+- 🌱 I’m currently learning Rust
+- 💞️ I’m  ooking to collaborate on drinking beer
